@@ -1,0 +1,59 @@
+#menu{
+    margin-top:0 ;
+    display: block;
+    width: 100%;
+    height: 70px;
+    background-color:palevioletred;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center; 
+}
+
+#menu a{
+    text-decoration: none;
+    color:white;
+    padding-left: 5%;   
+}
+
+#menu a:hover{
+    color: pink;
+}
+
+a.button{
+    display: block;
+    width: 100px;
+    height: 40px;
+    font-weight: bold;
+    border: 5px solid palevioletred;
+    text-decoration: none;
+    text-align: center;
+    color: black;
+    font-size: 15px;
+}
+
+a.button:hover{
+    background-color: pink;
+
+    
+}
+
+#message{
+    display: block;
+    color: black;
+    font-size: 25px;
+    font-weight: 800;
+    text-align :center;
+    
+} 
+
+
+
+
+
+
+
+
+
+
+
+
